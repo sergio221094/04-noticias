@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+      {
+          "source": {
+              "id": "the-washington-post",
+              "name": "The Washington Post"
+          },
+          "author": "Julian Mark",
+          "title": "Actress Anne Heche is in a coma after crashing car into home, rep says - The Washington Post",
+          "description": "Actress Anne Heche remains in “extreme critical condition” after crashing her car into a Los Angeles home, a spokesperson said.",
+          "url": "https://www.washingtonpost.com/nation/2022/08/09/anne-heche-coma/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LFCWVQVY4I63BECA3A4QTHI6I.jpg&w=1440",
+          "publishedAt": "2022-08-09T12:28:53Z",
+          "content": "Comment on this story\r\nActress Anne Heche has fallen into a coma and remains in extreme critical condition days after she crashed her car into a Los Angeles home, causing both to erupt into flames, a… [+3514 chars]"
+      },
+      {
+          "source": {
+              "id": "the-washington-post",
+              "name": "The Washington Post"
+          },
+          "author": "Chris Klimek",
+          "title": "Heat 2 by Michael Mann and Meg Gardiner book review - The Washington Post",
+          "description": "That “Heat” is plotted as tightly as a Swiss watch makes the shapelessness of this follow-up all the harder to forgive.",
+          "url": "https://www.washingtonpost.com/books/2022/08/09/heat-2-michael-mann-review/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ETGNPCQJUUI63AFWIPZL7TDGMI.jpg&w=1440",
+          "publishedAt": "2022-08-09T12:18:17Z",
+          "content": "Comment on this story\r\nThe 1995 cops-and-robbers saga Heat stands as neon-loving filmmaker Michael Manns magnum opus, though it arrived at the midpoint of his career. A panoramic Los Angeles crime op… [+5296 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Times"
+          },
+          "author": "Ben Dooley, Elizabeth Paton",
+          "title": "Issey Miyake, Japanese Fashion Designer, Dies at 84 - The New York Times",
+          "description": "He was known for his innovative origami-like designs, creating skirts, dresses and trousers with prisms of unfolding shapes.",
+          "url": "https://www.nytimes.com/2022/08/09/fashion/issey-miyake-dead.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/08/09/world/09miyake1/09miyake1-facebookJumbo.jpg",
+          "publishedAt": "2022-08-09T11:55:13Z",
+          "content": "Kazunaru Miyake was born on April 22, 1938. He walked with a pronounced limp, the result of surviving the atomic bomb dropped on Hiroshima, his hometown, on Aug. 6, 1945. His mother died three years … [+1197 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Sandee LaMotte, CNN",
+          "title": "Ashton Kutcher says he battled the debilitating disease 'vasculitis.' Here's what it is - CNN",
+          "description": "Ashton Kutcher revealed Monday he has battled a serious autoimmune condition called vasculitis that affected his vision, hearing and gait.",
+          "url": "https://www.cnn.com/2022/08/08/health/ashton-kutcher-vasculitis-wellness/index.html",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220808141436-ashton-kutcher-0725-super-tease.jpg",
+          "publishedAt": "2022-08-09T11:23:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Sean O'grady",
+          "title": "Taylor Swift claims she never stole lyrics from 3LW for her song Shake It Off - Daily Mail",
+          "description": "The singer, 32, is being sued by songwriters Sean Hall and Nathan Butler, who claim that her 2014 hit Shake It Off lifted lines from their 2001 song Playas Gon' Play.",
+          "url": "https://www.dailymail.co.uk/tvshowbiz/article-11094765/Taylor-Swift-claims-never-stole-lyrics-3LW-song-Shake-Off.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/09/11/61209419-0-image-a-92_1660039485409.jpg",
+          "publishedAt": "2022-08-09T10:40:55Z",
+          "content": "Taylor Swift has responded to plagiarism accusations from two songwriters who claim her song Shake It Off is not an entirely original work. \r\nThe singer, 32, is being sued by songwriters Sean Hall an… [+5911 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Olivia Newton-John: Tributes to Grease star and singer dies aged 73 - BBC",
+          "description": "Best known for playing Sandy in Grease, the actor and singer has died from cancer aged 73.",
+          "url": "https://www.bbc.com/news/entertainment-arts-62472100",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/19C2/production/_126249560_gettyimages-159821789.jpg",
+          "publishedAt": "2022-08-09T08:39:07Z",
+          "content": "By Francesca Gillett &amp; Matt MurphyBBC News\r\nMedia caption, Watch: Highlights from the Grease actor's career\r\nTributes have been paid from around the world to Olivia Newton-John, who has died from… [+6490 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "TMZ"
+          },
+          "author": "TMZ Staff",
+          "title": "Johnny Depp Signs New Deal With Dior To Come Back as Face of Sauvage Cologne - TMZ",
+          "description": "Johnny Depp signed a new contract to be the face of Dior's Sauvage men's fragrance.",
+          "url": "https://www.tmz.com/2022/08/09/johnny-depp-signs-new-deal-dior-sauvage-fragrance-cologne/",
+          "urlToImage": "https://imagez.tmz.com/image/94/16by9/2022/08/08/94da786ceb8d4378933732501244de18_xl.jpg",
+          "publishedAt": "2022-08-09T08:00:00Z",
+          "content": "If there were any doubts big names would get behind Johnny Depp again following his legal win over Amber Heard, lay them to rest ... Dior is betting big on JD with a new contract.\r\nSources directly c… [+1025 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "INSIDER"
+          },
+          "author": "Anneta Konstantinides",
+          "title": "Kim Kardashian and Pete Davidson ordered pizza named after Kanye West - Insider",
+          "description": "Kim Kardashian and Pete Davidson made headlines when they ordered the Ham & Yeezy pizza at Jon & Vinny's restaurant in Los Angeles.",
+          "url": "https://www.insider.com/kim-kardashian-pete-davidson-kanye-west-pizza-review-2022-8",
+          "urlToImage": "https://i.insider.com/62f1803acc15bf00182f7f38?width=1200&format=jpeg",
+          "publishedAt": "2022-08-09T06:02:17Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Charlotte Nicdao on Star Wars Obsession, Comic-Con Accident & Mythic Quest with Rob McElhenney - Jimmy Kimmel Live",
+          "description": "Charlotte talks to guest host Rob McElhenney about her accident at Comic Con, organizing a trip to a Korean spa with the “Mythic Quest” cast, and her obsessi...",
+          "url": "https://www.youtube.com/watch?v=mZqsKf_icRA",
+          "urlToImage": "https://i.ytimg.com/vi/mZqsKf_icRA/hqdefault.jpg",
+          "publishedAt": "2022-08-09T06:00:20Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Kumail Nanjiani on Worst Wedding Anniversary Ever, Rob McElhenny's Abs & Official Stripper Name - Jimmy Kimmel Live",
+          "description": "Kumail talks to guest host Rob McElhenney about meeting at a “Game of Thrones” event, the first conversation they ever had, celebrating his 15th wedding anni...",
+          "url": "https://www.youtube.com/watch?v=TbU1zPg4m9A",
+          "urlToImage": "https://i.ytimg.com/vi/TbU1zPg4m9A/hqdefault.jpg",
+          "publishedAt": "2022-08-09T06:00:11Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Cageside Seats"
+          },
+          "author": "Marcus Benjamin",
+          "title": "Raw recap & reactions (Aug. 8, 2022): Beginnings and endings - Cageside Seats",
+          "description": "The Haitch takeover begins in earnest as feuds end, begin, and Theory is still missing.",
+          "url": "https://www.cagesideseats.com/wwe/2022/8/9/23297626/raw-recap-reactions-aug-8-2022-bayley-bianca-belair-dexter-lumis-dakota-kai-iyo-sky-alexa-bliss",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/akRlRrDVioISQRN3v03vvxvEdm0=/0x144:1169x756/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23931718/FZry0ILWQAEHez_.jpeg",
+          "publishedAt": "2022-08-09T05:00:02Z",
+          "content": "You know me. You know Claire and her blog. You know what to do. \r\nLets talk Raw!\r\nThe hunger. Now, not just an 80s horror movie directed by Tony Scott. Thats what Bayley says she, Dakota Kai, and IYO… [+10126 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Edge accepts Damian Priest's challenge: WWE Raw Talk, Aug. 8, 2022 - WWE",
+          "description": "On a wild RAW Talk, Edge accepts Damian Priests’ challenge, Dakota Kai explains that herself, Bayley and IYO SKY are in control and Omos states that if you w...",
+          "url": "https://www.youtube.com/watch?v=MD-fVmXb30A",
+          "urlToImage": "https://i.ytimg.com/vi/MD-fVmXb30A/maxresdefault.jpg",
+          "publishedAt": "2022-08-09T04:20:24Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "AJ Styles vs. The Miz - No Disqualification Match: Raw, Aug. 8, 2022 - WWE",
+          "description": "After months of heated physicality, The Phenomenal AJ Styles battles The Awesome One in a No Disqualification Match. Catch WWE action on Peacock, WWE Network...",
+          "url": "https://www.youtube.com/watch?v=F1oGd_1AmE4",
+          "urlToImage": "https://i.ytimg.com/vi/F1oGd_1AmE4/maxresdefault.jpg",
+          "publishedAt": "2022-08-09T04:15:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Bayley, Dakota Kai and IYO SKY interrupt Alexa Bliss and Asuka: Raw, Aug. 8, 2022 - WWE",
+          "description": null,
+          "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpS2kfrsaojs",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T04:10:07Z",
+          "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Post"
+          },
+          "author": "Allie Griffin",
+          "title": "Embattled actor Ezra Miller charged with felony burglary in Vermont - New York Post ",
+          "description": "Embattled actor Ezra Miller is in legal trouble again — this time for allegedly stealing booze from a home in Vermont.",
+          "url": "https://nypost.com/2022/08/09/ezra-miller-charged-with-felony-burglary-in-vermont/",
+          "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/erzra-miller-vermont-burglary-004-1.jpg?quality=75&strip=all&w=1024",
+          "publishedAt": "2022-08-09T04:08:00Z",
+          "content": "Embattled actor Ezra Miller is in legal trouble again — this time for allegedly stealing booze from a home in Vermont. \r\nMiller, 29, was charged with felony burglary and is accused of stealing severa… [+1572 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Bobby Lashley vs. Ciampa — United States Championship Match: Raw, Aug. 8, 2022 - WWE",
+          "description": null,
+          "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DejodxS9Yg5g",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T04:00:00Z",
+          "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Rey Mysterio vs. Finn Bálor: Raw, Aug. 8, 2022 - WWE",
+          "description": null,
+          "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DatSm1HN5uUA",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T03:35:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Kanye West Reacts To Pete & Kim K's Breakup and Kid Cudi's Rolling Loud Set In Classic YE Fashion - HipHopDX",
+          "description": null,
+          "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxHtCmGszZo8",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T03:00:31Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The A.V. Club"
+          },
+          "author": "Sam Barsanti",
+          "title": "Things on Fargo to get stranger with Joe Keery and new guy Lamorne Morris - The A.V. Club",
+          "description": "The next season of FX's crime anthology takes place in 2019",
+          "url": "https://www.avclub.com/joe-keery-and-lamorne-morris-fx-next-season-fargo-1849388061",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6803ed9762a8a2d0e7428c84d0090c64.jpg",
+          "publishedAt": "2022-08-09T02:49:00Z",
+          "content": "Theres nothing quite like FXs Fargo if you enjoy seeing the names of famous people you like from other things. The anthology nature of Noah Hawleys crime drama has attracted a lot of cool people over… [+1624 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Variety"
+          },
+          "author": "Michael Schneider",
+          "title": "‘Better Call Saul’ Co-Creator Vince Gilligan on Kim’s Brush With ‘Breaking Bad’ and Setting the Finale Stage - Variety",
+          "description": "Spoiler alert: Do not read if you haven’t watched “Waterworks,” Episode 12 of “Better Call Saul” now streaming on AMC+. It’s the episode of “Better Call Saul” that fans had been waiting to see, well, forever. The fate of Kim Wexler is finally explained in Mon…",
+          "url": "https://variety.com/2022/tv/news/better-call-saul-kim-jesse-vince-gilligan-1235336611/",
+          "urlToImage": "https://variety.com/wp-content/uploads/2022/08/BCS_612_GL_1214_0740-RT-e1660008149221.jpg?w=1024",
+          "publishedAt": "2022-08-09T02:21:00Z",
+          "content": "Spoiler alert: Do not read if you haven’t watched “Waterworks,” Episode 12 of “Better Call Saul” now streaming on AMC+.\r\nIt’s the episode of “Better Call Saul” that fans had been waiting to see, well… [+11372 chars]"
+      }
+  ]
+}

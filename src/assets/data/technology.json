@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+      {
+          "source": {
+              "id": "ign",
+              "name": "IGN"
+          },
+          "author": "Matt Purslow",
+          "title": "Someone Added Shadow of Mordor's Nemesis System to Skyrim - IGN - IGN",
+          "description": "A modder has put Middle-earth: Shadow of Mordor's genius Nemesis System into Skyrim.",
+          "url": "https://www.ign.com/articles/someone-added-shadow-of-mordors-nemesis-system-to-skyrim",
+          "urlToImage": "https://assets-prd.ignimgs.com/2022/08/09/shadow-of-skyrim-mod-1660042172920.jpg?width=1280",
+          "publishedAt": "2022-08-09T11:06:26Z",
+          "content": "A modder has put Middle-earth: Shadow of Mordor's genius Nemesis System into Skyrim, which means you can now set yourself up for revenge against dragons (or mudcrabs, or anything else) that kill you.… [+1968 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kotaku"
+          },
+          "author": "Patricia Hernandez",
+          "title": "Elden Ring Fans Rejoice As Dreaded Bloodhound Step Nerfed In Enormous Gameplay Update - Kotaku",
+          "description": "Rivers of Blood users are also affected thanks to a Corpse Piler adjustment",
+          "url": "https://kotaku.com/elden-ring-update-bloodhound-step-corpse-piler-blood-1849388686",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fc0303bd31f86418fc24ba07da518717.jpg",
+          "publishedAt": "2022-08-09T10:55:00Z",
+          "content": "Its been a while since Elden Ring saw any love, but patch 1.06 is here. Theres not much in the way of new additions, though notably the update means you can now do co-op or invasions in multiple plac… [+9335 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Ryan Browne",
+          "title": "WhatsApp will soon let you slip out of group chats undetected - CNBC",
+          "description": "It's part of a handful of measures the encrypted messaging platform is taking to enhance privacy.",
+          "url": "https://www.cnbc.com/2022/08/09/whatsapp-will-soon-let-you-slip-out-of-group-chats-undetected.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/104162994-GettyImages-503572810.jpg?v=1539174141&w=1920&h=1080",
+          "publishedAt": "2022-08-09T10:26:11Z",
+          "content": "WhatsApp is launching a new feature that will allow users to leave lengthy group chats without alerting others to their exit.\r\nCurrently, pulling out of a WhatsApp group chat can be an awkward affair… [+1926 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Tom Warren",
+          "title": "Xbox Elite 2 white controller leaked in unboxing video - The Verge",
+          "description": "Microsoft appears to be working on a white version of its Xbox Elite 2 controller. A YouTube unboxing shows an unannounced white Xbox Elite 2 controller, months after retail packaging was spotted.",
+          "url": "https://www.theverge.com/2022/8/9/23297965/microsoft-xbox-elite-2-white-controller-video-leak",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/7hIdMrkQ4Xd1sOYd648QzsDconk=/0x72:805x493/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23931877/xboxelitewhite.jpg",
+          "publishedAt": "2022-08-09T09:43:09Z",
+          "content": "An unannounced Xbox controller has appeared on YouTube\r\nA white version of the Xbox Elite 2 controller.\r\nImage: Nicholas Lugo (YouTube)\r\nMicrosoft appears to be working on a new white version of the … [+1893 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Android Authority"
+          },
+          "author": null,
+          "title": "Google TV is apparently getting a ton of new powerful capabilities - Android Authority",
+          "description": "Google is apparently planning some major feature additions to Google TV and Android TV devices in the near future.",
+          "url": "https://www.androidauthority.com/google-tv-new-features-3194585/",
+          "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2020/09/Google-Chromecast-with-Google-TV-on-table-style-photo.jpg",
+          "publishedAt": "2022-08-09T06:14:22Z",
+          "content": "<ul><li>An internal Google presentation has leaked, revealing a ton of new capabilities coming to Android TV and Google TV devices.</li><li>The planned updates reportedly include Wear OS integration,… [+2198 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": "Bradley Chambers",
+          "title": "Parallels Desktop 18 simplifies installing Windows 11 on Apple Silicon, adds new SSO licensing, and improves Xbox and PS4 controller support - 9to5Mac",
+          "description": "Parallels 18 streamlines the usage of Xbox and PS4 controllers, adds Stage Manager support for Windows apps, and improves performance.",
+          "url": "https://9to5mac.com/2022/08/08/parallels-18/",
+          "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/08/parallels.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2022-08-09T04:01:00Z",
+          "content": "Today, Parallels announces the release of Parallels Desktop 18 for Mac. Parallels Desktop 18 includes substantial enhancements to the core, changes to enable IT managers to deploy Parallels and Windo… [+5153 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Eurogamer.net"
+          },
+          "author": "Matt Wales",
+          "title": "Super Punch-Out!!'s secret two-player mode uncovered after 28 years - Eurogamer.net",
+          "description": "Purveyors of video game secrets have something new to get excited about following the recent fuss around Nier: Automata…",
+          "url": "https://www.eurogamer.net/super-punch-outs-secret-two-player-mode-uncovered-after-28-years",
+          "urlToImage": "https://assets.reedpopcdn.com/super-punch-out-box-art-crop.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/super-punch-out-box-art-crop.jpg",
+          "publishedAt": "2022-08-09T01:37:39Z",
+          "content": "Purveyors of video game secrets have something new to get excited about following the recent fuss around Nier: Automata's ultimately rather underwhelming church mystery; a hidden two-player mode has … [+1701 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Theregister.com"
+          },
+          "author": "Katyanna Quach",
+          "title": "Google sues Sonos yet again, claiming it stole IP and infringed patents - The Register",
+          "description": "Patent lawsuits, the next saga",
+          "url": "https://www.theregister.com/2022/08/08/google_sues_sonos/",
+          "urlToImage": "https://regmedia.co.uk/2020/01/07/shutterstock_sonos.jpg",
+          "publishedAt": "2022-08-08T23:58:00Z",
+          "content": "Google hit Sonos with two lawsuits on Monday, claiming patent infringement on seven different technologies associated with smart speakers, as part of its ongoing battle with the audio hardware biz ov… [+3120 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "iPadOS 16 Beta 5: Everything New! | Stage Manager Regression… - 9to5Mac",
+          "description": "Apple just released iPadOS 16 beta 5 to all developers and i wanted to see what was new and also see if we got any stage manager stability improvements!Innoc...",
+          "url": "https://www.youtube.com/watch?v=2WTsSzeTO6A",
+          "urlToImage": "https://i.ytimg.com/vi/2WTsSzeTO6A/hqdefault.jpg",
+          "publishedAt": "2022-08-08T22:54:21Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Sheena Vasani",
+          "title": "WhatsApp gives you up to two days to delete a message, instead of one hour - The Verge",
+          "description": "WhatsApp users can now delete messages within a little over two days after sending them. Previously, the company only gave users an hour to do so.",
+          "url": "https://www.theverge.com/2022/8/8/23297405/whatsapp-delete-texts-for-everyone-meta-apple-imessage",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/y1dBxtHPiilVCibNWHeWkW-FV1g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22245550/acastro_210119_1777_whatsapp_0002.jpg",
+          "publishedAt": "2022-08-08T22:46:19Z",
+          "content": "You no longer have just an hour\r\nIllustration by Alex Castro / The Verge\r\nSent a wildly inappropriate text meant for your boo to, I dont know, your boss? Now you have some extra time to save face and… [+1215 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Here's When Modern Warfare 2's Multiplayer Will Be Revealed - IGN Daily Fix - IGN",
+          "description": "On today’s IGN The Fix: Games, Activision Blizzard has announced Call of Duty: Next, a livestream event that will include information on Call of Duty: Warzon...",
+          "url": "https://www.youtube.com/watch?v=IkOSa6T-lmw",
+          "urlToImage": "https://i.ytimg.com/vi/IkOSa6T-lmw/maxresdefault.jpg",
+          "publishedAt": "2022-08-08T22:35:33Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "polygon",
+              "name": "Polygon"
+          },
+          "author": "Michael McWhertor",
+          "title": "Guilty Gear Strive brings back Bridget for season 2 - Polygon",
+          "description": "Guilty Gear Strive’s second season of characters kicked off Monday with the release of Bridget, the yo-yo-wielding fighter who first appeared in 2002’s Guilty Gear X2. The release confirms that Bridget is now canonically trans.",
+          "url": "https://www.polygon.com/23293568/guilty-gear-strive-season-2-bridget-dlc-release-date",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/HGSeAJe5XfzK4uX0O5O5htHcrvY=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23930847/BGT_SS_01.jpg",
+          "publishedAt": "2022-08-08T22:31:00Z",
+          "content": "Release confirms that Bridget is now canonically trans"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gematsu"
+          },
+          "author": "Sal Romano",
+          "title": "Marvel’s Midnight Suns delayed to later this fiscal year for PS5, Xbox Series, and PC; later for PS4, Xbox One, and Switch - Gematsu",
+          "description": "Publisher 2K and developer Firaxis Games have delayed Marvel's Midnight Suns from its previously planned October 7 release date to later this fiscal year (ending March 31, 2023) for PlayStation 5…",
+          "url": "https://www.gematsu.com/2022/08/marvels-midnight-suns-delayed-to-later-this-fiscal-year-for-ps5-xbox-series-and-pc-later-for-ps4-xbox-one-and-switch",
+          "urlToImage": "https://www.gematsu.com/wp-content/uploads/2022/08/Marvel-Midnight-Suns-Delay_08-08-22.jpg",
+          "publishedAt": "2022-08-08T22:27:51Z",
+          "content": "Get the full message from the development team on the delay below.We have an important update to share regarding our launch date for Marvel’s Midnight Suns. After discussion with the team, we’ve made… [+710 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "No one's playing Netflix games - Android Police",
+          "description": null,
+          "url": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL25ldGZsaXgtZ2FtZXMtZGFpbHktdXNlcnMv0gEA?oc=5",
+          "urlToImage": null,
+          "publishedAt": "2022-08-08T22:08:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Chris Welch",
+          "title": "Sennheiser announces Momentum 4 headphones with new design and 60-hour battery life - The Verge",
+          "description": "Sennheiser has announced the $350 Momentum 4 Wireless headphones with a completely revamped design, marathon battery life, improved active noise cancellation, and the top-notch audio quality that the brand is known for.",
+          "url": "https://www.theverge.com/2022/8/8/23297347/sennheiser-momentum-4-headphones-announced-features-price",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/DdTFw4p_73WbIjwiSCkrFMetsS4=/0x151:1812x1100/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23930923/MOMENTUM_4_Wireless_Male_Lifestyle_Image_Outdoor_Black.jpg",
+          "publishedAt": "2022-08-08T22:00:00Z",
+          "content": "The classy, retro style of past models is history\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nImage: Sennheiser\r\nSennheiser just announced the… [+1826 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9to5google.com"
+          },
+          "author": "Ben Schoon",
+          "title": "Google TV and Android TV reportedly pushing for at least 16GB of storage on new devices - 9to5Google",
+          "description": "Google has apparently asked its partners to make 16GB the minimum amount of storage found in future Google TV and Android TV devices.",
+          "url": "https://9to5google.com/2022/08/08/google-tv-storage-report/",
+          "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/05/chromecast_google_tv_2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2022-08-08T22:00:00Z",
+          "content": "Android TV and Google TV have been around for a while and can be found on a variety of hardware, but often the biggest problem with the platform is its limited storage. According to a new report, Goo… [+2141 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "GamesRadar+"
+          },
+          "author": "Dustin Bailey",
+          "title": "Rockstar vows GTA 6 will \"set creative benchmarks for the series, our industry, and all entertainment\" - Gamesradar",
+          "description": "Take-Two reiterates that development is \"well underway\"",
+          "url": "https://www.gamesradar.com/rockstar-vows-gta-6-will-set-creative-benchmarks-for-the-series-our-industry-and-all-entertainment/",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/uCiZh3bij9sdEzXbs6aycA-1200-80.jpg",
+          "publishedAt": "2022-08-08T21:53:28Z",
+          "content": "Rockstar parent company Take-Two Interactive has reiterated that development on GTA 6 is \"well underway,\" and says that the devs have some especially bold aims for the next entry in the Grand Theft A… [+1511 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Mack DeGeurin",
+          "title": "Intel's Getting into Professional GPUs, Too - Gizmodo",
+          "description": "The Pro series will include two new GPUs intended for desktop workstations and one A30M geared toward mobile laptops.",
+          "url": "https://gizmodo.com/intel-arc-pro-series-discrete-gpu-professional-blender-1849386667",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed6924f51661dc13f49d284ce8c192c0.jpg",
+          "publishedAt": "2022-08-08T21:10:00Z",
+          "content": "Intel this week revealed its new lineup of Arc Pro series GPUs intended primarily for powerful small form factor desktops and professionally focused laptops. All three of the GPUs, which Intel says a… [+2873 chars]"
+      },
+      {
+          "source": {
+              "id": "polygon",
+              "name": "Polygon"
+          },
+          "author": "Ryan Gilliam",
+          "title": "Apex Legends Hunted patch notes, release timing - Polygon",
+          "description": "Apex Legends Hunted, the game’s 14th season, is here. Check out the complete patch notes, which include Vantage — the new Legend — a map update, a level increase, balance changes, and more",
+          "url": "https://www.polygon.com/23297097/apex-legends-hunted-vantage-patch-notes-season-14-timing-release-date",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/y4YVAXaUUKcyaGlRMuxae4rPJ4o=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23898025/apex_legends_vantage.jpg",
+          "publishedAt": "2022-08-08T21:08:14Z",
+          "content": "Apex Legends new Hunted update is nearly here, and it brings with it a big map change, the usual balance updates, and a new playable Legend character. The update will begin the games 14th season, and… [+16088 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "BleepingComputer"
+          },
+          "author": "Sergiu Gatlan",
+          "title": "Windows devices with newest CPUs are susceptible to data damage - BleepingComputer",
+          "description": "Microsoft has warned today that Windows devices with the newest supported processors are susceptible to \"data damage\" on Windows 11 and Windows Server 2022.",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/windows-devices-with-newest-cpus-are-susceptible-to-data-damage/",
+          "urlToImage": "https://www.bleepstatic.com/content/hl-images/2022/07/05/Windows.jpg",
+          "publishedAt": "2022-08-08T20:42:23Z",
+          "content": "Microsoft has warned today that Windows devices with the newest supported processors are susceptible to \"data damage\" on Windows 11 and Windows Server 2022.\r\n\"Windows devices that support the newest … [+2206 chars]"
+      }
+  ]
+}

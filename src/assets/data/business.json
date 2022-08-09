@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+      {
+          "source": {
+              "id": "bloomberg",
+              "name": "Bloomberg"
+          },
+          "author": null,
+          "title": "Billionaire Carlyle Founders Lost Faith in Hand-Picked CEO - Bloomberg",
+          "description": null,
+          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=23e649fc-17e3-11ed-915d-49587561794c&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0wOS9jYXJseWxlLXMtYmlsbGlvbmFpcmUtZm91bmRlcnMtcmVhY2hlZC1hLWJyZWFraW5nLXBvaW50LXdpdGgtY2Vv",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T11:53:20Z",
+          "content": "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Peter Schacknow",
+          "title": "Stocks making the biggest moves in the premarket: Novavax, GoodRx, Allbirds and more - CNBC",
+          "description": "The stocks making the biggest moves in premarket trading include Novavax, GoodRx, Allbirds, and more.",
+          "url": "https://www.cnbc.com/2022/08/09/stocks-making-the-biggest-moves-in-the-premarket-novavax-goodrx-allbirds-and-more.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106991620-1640011268004-gettyimages-1236961847-porzycki-vaccines211202_nptuq.jpeg?v=1660045176&w=1920&h=1080",
+          "publishedAt": "2022-08-09T11:40:07Z",
+          "content": "Take a look at some of the biggest movers in the premarket:\r\nNovavax (NVAX) The drugmaker's stock plummeted 32.3% in the premarket after posting an unexpected quarterly loss and cutting its full-year… [+2280 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MarketWatch"
+          },
+          "author": "Barbara Kollmeyer",
+          "title": "The red flag that preceded a halving of global equities in 2000 and 2007 is back, warns Citi - MarketWatch",
+          "description": "Critical information for the U.S. trading day",
+          "url": "https://www.marketwatch.com/story/the-red-flag-that-preceded-a-halving-of-global-equities-in-2000-and-2007-is-back-warns-citi-11660042645",
+          "urlToImage": "https://images.mktw.net/im-600236/social",
+          "publishedAt": "2022-08-09T10:57:00Z",
+          "content": "We are a day away from data that could prove a turning point for markets. If Wednesdays CPI doesnt reveal some slowing in prices, expectations will rise for a bigger Fed rate hike in September, possi… [+5251 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MarketWatch"
+          },
+          "author": "Alisa Wolfson",
+          "title": "This is the ‘Jay Leno rule’ of saving money. You don’t have to be rich to do it - MarketWatch",
+          "description": "It’s not possible for every family, but pros say it’s worth a shot if you can do it.",
+          "url": "https://www.marketwatch.com/picks/this-is-the-jay-leno-rule-of-saving-money-and-you-dont-have-to-be-rich-to-make-it-work-for-you-01659983874",
+          "urlToImage": "https://images.mktw.net/im-599855/social",
+          "publishedAt": "2022-08-09T10:40:00Z",
+          "content": "Comedian Jay Leno has openly shared that while collecting two salaries one from his Tonight Show hosting gig and one from the 150 annual comedy shows hed appear in he never spent any of his Tonight S… [+3897 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Elliot Smith",
+          "title": "Britain is becoming an 'emerging market country,' analyst says - CNBC",
+          "description": "Political instability, trade disruptions, an energy crisis and soaring inflation are rendering the U.K. an \"emerging market country,\" according to Saxo Bank.",
+          "url": "https://www.cnbc.com/2022/08/09/britain-is-becoming-an-emerging-market-country-analyst-says.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107012319-1644311688126-gettyimages-1369123544-national-pensioners-conventionfuel-poverty-action-demodownin.jpeg?v=1644311762&w=1920&h=1080",
+          "publishedAt": "2022-08-09T10:35:34Z",
+          "content": "Pensioners protest over rising fuel prices at a demonstration outside Downing street called by The National Pensioners Convention and Fuel Poverty Action on February 7, 2022 in London, England.\r\nPoli… [+3817 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Leslie Josephs",
+          "title": "Spirit Airlines posts loss on surge in costs, expects Florida challenges to continue - CNBC",
+          "description": "Spirit's expenses soared more than 66% compared with three years ago. Its fuel bill more than doubled.",
+          "url": "https://www.cnbc.com/2022/08/09/spirit-airlines-save-earnings-q2-2022.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107012054-1644256964709-gettyimages-1369173716-031a2499_45448892-7ab3-404e-95b7-e51a29b2c9cd.jpeg?v=1644257037&w=1920&h=1080",
+          "publishedAt": "2022-08-09T10:19:27Z",
+          "content": "Spirit Airlines reported a second-quarter loss as strong travel demand and higher fares weren't enough to overcome a surge in costs.\r\nSpirit reported results less than two weeks after it announced it… [+2021 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Elliot Smith",
+          "title": "European markets retreat slightly as focus turns to U.S. inflation, Fed outlook - CNBC",
+          "description": "European markets were slightly lower on Tuesday as global market focus turns to a key U.S. inflation print on Wednesday.",
+          "url": "https://www.cnbc.com/2022/08/09/europe-markets-open-to-close-focus-turns-to-us-inflation-fed-outlook.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106982004-1638250770877-gettyimages-1191306158-UK_LSE.jpeg?v=1638250825&w=1920&h=1080",
+          "publishedAt": "2022-08-09T07:02:35Z",
+          "content": "LONDON European markets were slightly lower on Tuesday as focus in global markets turns to a key U.S. inflation print due Wednesday.\r\nThe pan-European Stoxx 600 slipped 0.3% by mid-morning, with trav… [+1634 chars]"
+      },
+      {
+          "source": {
+              "id": "bloomberg",
+              "name": "Bloomberg"
+          },
+          "author": null,
+          "title": "China Orders Surprise Audit of $3 Trillion Trust Industry - Bloomberg",
+          "description": null,
+          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f6f1c736-17e2-11ed-af02-517a75446457&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0wOS9jaGluYS1vcmRlcnMtc3VycHJpc2UtYXVkaXQtb2YtMy10cmlsbGlvbi10cnVzdC1pbmR1c3RyeQ==",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T05:37:00Z",
+          "content": "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+          "source": {
+              "id": "financial-times",
+              "name": "Financial Times"
+          },
+          "author": null,
+          "title": "Live news updates: SoftBank shares drop 5% after release of record loss - Financial Times",
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "url": "https://www.ft.com/content/9bbb716d-5b59-4801-9b14-cd66bcf97198",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T05:15:43Z",
+          "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": null,
+          "title": "Cryptoverse: Blockchain bridges fall into troubled waters - Reuters",
+          "description": "Another day, another hack - and another blockchain bridge burned.",
+          "url": "https://www.reuters.com/technology/cryptoverse-blockchain-bridges-fall-into-troubled-waters-2022-08-09/",
+          "urlToImage": "https://www.reuters.com/resizer/koRr6wzvqUCPOgJi5PPl7pgisIU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LL4HSL6N7FIZDCZW7D4JZM5WKU.jpg",
+          "publishedAt": "2022-08-09T05:13:00Z",
+          "content": "Aug 9 (Reuters) - Another day, another hack - and another blockchain bridge burned.\r\nWhen thieves stole an estimated $190 million from U.S. crypto firm Nomad last week, it was the seventh hack of 202… [+4362 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "KETV Omaha"
+          },
+          "author": "KETV Staff Report",
+          "title": "Three people critically injured after 'electrical event' at Google Data Center in Council Bluffs - KETV Omaha",
+          "description": "Three people are critically injured after an electrical event at the Google Data Center in Council Bluffs.",
+          "url": "https://www.ketv.com/article/council-bluffs-google-data-center-electrical-event-three-people-critically-injured/40838924",
+          "urlToImage": "https://kubrick.htvapps.com/vidthumb/374c1352-3785-48d8-a48f-f30bb4ec6a55/374c1352-3785-48d8-a48f-f30bb4ec6a55_image.jpg?crop=0.623xw:0.623xh;0.201xw,0.148xh&resize=1200:*",
+          "publishedAt": "2022-08-09T03:32:00Z",
+          "content": "COUNCIL BLUFFS, Iowa —Three people are critically injured after an \"electrical event\" at the Google Data Center in Council Bluffs. \r\nAuthorities responded to the center, which is located near Bunge a… [+818 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": null,
+          "title": "Tesla's July sales of Chinese-made vehicles slide due to factory line upgrades - Reuters.com",
+          "description": "Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> sold 28,217 Chinese-made vehicles in July, nearly two-thirds less than a month earlier as a scheduled upgrade to its factory lines in Shanghai disrupted production.",
+          "url": "https://www.reuters.com/business/autos-transportation/tesla-sells-28217-chinese-made-vehicles-july-cpca-2022-08-09/",
+          "urlToImage": "https://www.reuters.com/resizer/82cAxPSsxXmGrVnJ6rmV2xeaTb8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RKSELJRA4VMHDEJ5RPQWRMD46I.jpg",
+          "publishedAt": "2022-08-09T03:05:00Z",
+          "content": "SHANGHAI, Aug 9 (Reuters) - Tesla (TSLA.O) sold 28,217 Chinese-made vehicles in July, nearly two-thirds less than a month earlier as a scheduled upgrade to its factory lines in Shanghai disrupted pro… [+1806 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Jennifer Hansler and Brian Fung, CNN",
+          "title": "US sanctions cryptocurrency service allegedly used by North Korea for money laundering - CNN",
+          "description": "The US Treasury on Monday sanctioned Tornado Cash, a virtual currency mixer, for its use by cybercriminals, including those under US sanctions.",
+          "url": "https://www.cnn.com/2022/08/08/politics/us-cryptocurrency-sanctions-north-korea/index.html",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220228105352-hackers-super-tease.jpg",
+          "publishedAt": "2022-08-09T02:28:00Z",
+          "content": "Washington (CNN)The US Treasury on Monday sanctioned Tornado Cash, a virtual currency mixer, for its use by cybercriminals, including those under US sanctions.\r\nAccording to a senior Treasury officia… [+2529 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Caitlin Cassidy",
+          "title": "Google outage: tech giant apologises after software update causes search engine to go down - The Guardian",
+          "description": "Users reported the search engine was down and problems with Gmail, Google maps and Google images",
+          "url": "https://amp.theguardian.com/technology/2022/aug/09/google-outage-search-down",
+          "urlToImage": null,
+          "publishedAt": "2022-08-09T02:28:00Z",
+          "content": "GoogleUsers reported the search engine was down and problems with Gmail, Google maps and Google images\r\nGoogle has apologised for a software update issue that caused a major international outage on T… [+2577 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Sarah Min",
+          "title": "Stock futures rise slightly as Wall Street awaits more earnings, inflation data - CNBC",
+          "description": "Investors are deciding whether the major averages will once again challenge the June lows after their recent gains.",
+          "url": "https://www.cnbc.com/2022/08/08/stock-market-futures-open-to-close-news.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107097006-NYSE-Traders-OB-Photo-220801-CC-PRESS-4.jpg?v=1659382293&w=1920&h=1080",
+          "publishedAt": "2022-08-09T02:18:00Z",
+          "content": "U.S. stock futures rose slightly on Tuesday morning after Wall Street weighed the outlook for chip stocks, and looked ahead to more earnings results and inflation data that will determine the pace of… [+1733 chars]"
+      },
+      {
+          "source": {
+              "id": "al-jazeera-english",
+              "name": "Al Jazeera English"
+          },
+          "author": "Al Jazeera",
+          "title": "Australia’s central bank launches digital currency pilot - Al Jazeera English",
+          "description": "Reserve Bank of Australia says year-long trial will explore “innovative use cases and business models” for currency.",
+          "url": "https://www.aljazeera.com/economy/2022/8/9/australias-central-bank-launches-digital-currency-pilot",
+          "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2013-04-02T120000Z_1520952033_GM1E9420SLC01_RTRMADP_3_AUSTRALIA-ECONOMY.jpg?resize=1200%2C630",
+          "publishedAt": "2022-08-09T01:42:11Z",
+          "content": "Australias central bank has unveiled plans to examine the potential economic benefits of introducing a central bank digital currency (CBDC).\r\nThe Reserve Bank of Australia (RBA) said in a statement o… [+1637 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CoinDesk"
+          },
+          "author": "James Rubin, Sam Reynolds",
+          "title": "First Mover Asia: BTC Holds Near $24K; Why Do We Need Ethereum PoW When We Have Ethereum Classic? - CoinDesk",
+          "description": "Crypto mega-entrepreneurs Vitalik Buterin and Justin Sun are clashing over Ethereum’s future.",
+          "url": "https://www.coindesk.com/markets/2022/08/09/first-mover-asia-btc-holds-near-24k-why-do-we-need-ethereum-pow-when-we-have-ethereum-classic/",
+          "urlToImage": "https://www.coindesk.com/resizer/L8LxPYYbdOCAWbBturT4QGj_AaA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7JEG66MZNJGQBBTMABMYI6AXCU.jpg",
+          "publishedAt": "2022-08-09T00:54:00Z",
+          "content": "Good morning. Heres whats happening:\r\nPrices: Bitcoin continued its recent rally; ether and other major cryptos also rose.\r\nInsights: Ethereum's Vitalik Buterin and Tron's Justin Sun are clashing abo… [+10133 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Stephanie Landsman",
+          "title": "Everything from wages to used car prices could jump higher, market researcher Jim Bianco warns - CNBC",
+          "description": "Market forecaster Jim Bianco warns warns Washington's efforts to curb inflation will fall short, particularly this year.",
+          "url": "https://www.cnbc.com/2022/08/08/wage-inflation-used-car-prices-could-jump-higher-jim-bianco.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106963284-1634745497535-2022-Chevrolet-BoltEUV-and-BoltEV-ship-to-dealers-12.jpg?v=1634745583&w=1920&h=1080",
+          "publishedAt": "2022-08-09T00:46:00Z",
+          "content": "Washington's efforts to curb inflation will fall short particularly this year, according to market forecaster Jim Bianco.\r\nAnd, he believes this week's key inflation data will help prove it.\r\n\"I don'… [+2660 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": null,
+          "title": "Berkshire Hathaway boosts Occidental Petroleum stake above 20% - Reuters.com",
+          "description": "Warren Buffett's Berkshire Hathaway Inc <a href=\"https://www.reuters.com/companies/BRKa.N\" target=\"_blank\">(BRKa.N)</a> bought more shares of Occidental Petroleum Corp <a href=\"https://www.reuters.com/companies/OXY.N\" target=\"_blank\">(OXY.N)</a>, surpassing t…",
+          "url": "https://www.reuters.com/business/berkshire-hathaway-boosts-occidental-petroleum-stake-above-20-2022-08-09/",
+          "urlToImage": "https://www.reuters.com/resizer/Ft0hntLui6iW7xBkAZz7rg6O1z0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GUKF47ZJW5IFPKBSGDKF2VIHYI.jpg",
+          "publishedAt": "2022-08-09T00:21:00Z",
+          "content": "August 8 (Reuters) - Warren Buffett's Berkshire Hathaway Inc (BRKa.N) bought more shares of Occidental Petroleum Corp (OXY.N), surpassing the 20% stake where it could record some of the oil company's… [+2335 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "US Inflation Expectations Drop Sharply in New York Fed Survey - Bloomberg Markets and Finance",
+          "description": "Federal Reserve Bank of New York's latest survey shows consumer expectations for US inflation over the coming years declined sharply. This finding may ease t...",
+          "url": "https://www.youtube.com/watch?v=hOIwGsu-TuE",
+          "urlToImage": "https://i.ytimg.com/vi/hOIwGsu-TuE/hqdefault.jpg",
+          "publishedAt": "2022-08-09T00:11:31Z",
+          "content": null
+      }
+  ]
+}
