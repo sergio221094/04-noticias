@@ -18,10 +18,7 @@ export class NewsService {
   constructor(private http: HttpClient) { }
 
   public getTopHeadlines(): Observable<Article[]> {
-    return this.executeQuery<NewsResponse>(`top-headlines?category=general`).pipe(map(({ articles }) => articles));
-    /*return this.http.get<NewsResponse>('/assets/data/general.json').pipe(
-      map(({ articles }) => articles)
-    );*/
+    return this.getTopHeadLinesByCategory('general');
   }
 
   public getTopHeadLinesByCategory(category: string, loadMore: boolean = false): Observable<Article[]> {
@@ -53,7 +50,7 @@ export class NewsService {
   }
 
   private getArticlesByCategory(category: string): Observable<Article[]> {
-    if (!Object.keys(this.articleByCategoryAndPage).includes(category)){
+    if (!Object.keys(this.articleByCategoryAndPage).includes(category)) {
       this.articleByCategoryAndPage[category] = {
         page: 0,
         articles: []
@@ -66,7 +63,7 @@ export class NewsService {
       .pipe(map(({ articles }) => {
 
         if (articles.length === 0) {
-          return [];
+          return this.articleByCategoryAndPage[category].articles;
         };
         this.articleByCategoryAndPage[category] = {
           page,
