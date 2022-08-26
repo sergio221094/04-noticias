@@ -1,8 +1,9 @@
+import { StorageService } from './../../services/storage.service';
 import { SocialSharing } from '@awesome-cordova-plugins/social-sharing/ngx';
 import { InAppBrowser } from '@awesome-cordova-plugins/in-app-browser/ngx';
 import { Article } from './../../interfaces/index';
 import { Component, Input } from '@angular/core';
-import { ActionSheetController, Platform } from '@ionic/angular';
+import { ActionSheetButton, ActionSheetController, Platform } from '@ionic/angular';
 
 @Component({
   selector: 'app-article',
@@ -18,9 +19,9 @@ export class ArticleComponent {
     private iab: InAppBrowser,
     private platform: Platform,
     private actionSheetCtrl: ActionSheetController,
-    private socialSharing: SocialSharing
+    private socialSharing: SocialSharing,
+    private storageService: StorageService
   ) { }
-
 
   openArticle() {
 
@@ -36,31 +37,34 @@ export class ArticleComponent {
 
   async onOpenMenu() {
 
-    const actionSheet = await this.actionSheetCtrl.create({
-      header: 'Options',
-      buttons: [
-        {
-          text: 'Fav',
-          icon: 'heart-outline',
-          handler: () => this.onToggleFavorite()
-        },
-        {
-          text: 'Cancel',
-          icon: 'close-outline',
-          role: 'cancel'
-        }
-      ]
-    });
+    const normalBtn: ActionSheetButton[] = [
+      {
+        text: 'Fav',
+        icon: 'heart-outline',
+        handler: () => this.onToggleFavorite()
+      },
+      {
+        text: 'Cancel',
+        icon: 'close-outline',
+        role: 'cancel'
+      }
+    ];
 
-    const share = {
+    const shareBtn: ActionSheetButton = {
       text: 'Share',
       icon: 'share-outline',
       handler: () => this.onShareArticle()
     };
 
     if (this.platform.is('capacitor')) {
-      actionSheet.buttons.unshift(share);
+      normalBtn.unshift(shareBtn);
     }
+
+    const actionSheet = await this.actionSheetCtrl.create({
+      header: 'Options',
+      buttons: normalBtn
+    });
+
 
     await actionSheet.present();
   }
@@ -76,7 +80,7 @@ export class ArticleComponent {
   }
 
   onToggleFavorite() {
-    console.log('Share article');
+    this.storageService.saveRemoveArticle(this.article);
   }
 
 }
